@@ -4,8 +4,8 @@
 **Required components:**
 - Arduino UNO
 - LCD I2C
-- 4 Jumper Wires - male to female jumper wires
-- 3 Jumper wires male
+- 4 Jumper wires - male to female jumper wires
+- 3 Jumper wires - male
 - 4.7K resistor
 - DS18B20 temperature sensor
 
